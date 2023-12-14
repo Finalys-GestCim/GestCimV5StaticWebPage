@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestCimV5StaticWebPage.props" />
+</Project>
