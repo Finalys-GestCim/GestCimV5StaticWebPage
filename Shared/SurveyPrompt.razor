@@ -1,0 +1,14 @@
+﻿<div class="alert alert-secondary mt-4">
+    <span class="oi oi-pencil me-2" aria-hidden="true"></span>
+    <strong>@Title</strong>
+
+    <span class="text-nowrap">
+        <a target="_blank" class="font-weight-bold link-dark" href="https://finalysstorage.blob.core.windows.net/installer/Installeur%20GestCimV5.exe">Télécharger l'installeur de GestCimV5</a>
+    </span>
+</div>
+
+@code {
+    // Demonstrates how a parent component can supply parameters
+    [Parameter]
+    public string? Title { get; set; }
+}
