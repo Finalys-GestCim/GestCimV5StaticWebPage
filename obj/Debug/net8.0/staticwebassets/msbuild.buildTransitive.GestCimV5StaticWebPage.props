@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\GestCimV5StaticWebPage.props" />
-</Project>
